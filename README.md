@@ -44,15 +44,15 @@ See the platform in action across three different workflows.
 
 ### 1. ⚡ Demo for Demo Users
 Guest mode experience showing immediate value with pre-populated data.
-[![Demo for demo users](https://www.youtube.com/watch?v=wGFOZZNXN7M)
+👉 [Watch Video on YouTube](https://www.youtube.com/watch?v=wGFOZZNXN7M)
 
 ### 2. 👤 Demo for Base Users
 Standard workflow: creating tasks, tracking time, and managing the Kanban board.
-[![Demo for base users](https://youtu.be/PhsZUxKjibg)
+👉 [Watch Video on YouTube](https://youtu.be/PhsZUxKjibg)
 
 ### 3. 🧠 AI Functions
 Voice-to-Task parsing, complexity estimation, and English language enforcement.
-[![AI functions](https://youtu.be/-12NT9v1vo4)
+👉 [Watch Video on YouTube](https://youtu.be/-12NT9v1vo4)
 
 ---
 
