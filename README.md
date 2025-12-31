@@ -9,9 +9,9 @@
     <br />
     <a href="https://careercodex.tech/login">Sign Up</a>
     ·
-    <a href="https://github.com/YOUR_USERNAME/careercodex-public/issues">Report Bug</a>
+    <a href="https://github.com/WinLanEm/careercodex-public/issues">Report Bug</a>
     ·
-    <a href="https://github.com/YOUR_USERNAME/careercodex-public/issues">Request Feature</a>
+    <a href="https://github.com/WinLanEm/careercodex-public/issues">Request Feature</a>
   </p>
 </div>
 
@@ -45,12 +45,12 @@ The system is built as a monolithic core with service-oriented components for AI
 ### Core Schema (User & Billing)
 > Handles user authentication (Sanctum), subscription management, and Telegram integration.
 
-![Core Database Schema](docs/architecture/CoreERD.jpg)
+![Core Database Schema](docs/architecture/CoreERD.png)
 
 ### Activity & Integrations Schema
 > Manages complex webhook logic and aggregated developer activities.
 
-![Integrations Database Schema](docs/architecture/Integrations-activitiesERD.jpg)
+![Integrations Database Schema](docs/architecture/Integrations-activitiesERD.png)
 
 ---
 
