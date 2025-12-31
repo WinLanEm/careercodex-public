@@ -38,6 +38,36 @@ The platform leverages **AI algorithms** not just to track tasks, but to transfo
 
 ---
 
+## 🎥 Live Demos
+
+See the platform in action across three different workflows.
+
+### 1. ⚡ Demo for Demo Users
+Guest mode experience showing immediate value with pre-populated data.
+[![Demo for demo users](https://www.youtube.com/watch?v=wGFOZZNXN7M)
+
+### 2. 👤 Demo for Base Users
+Standard workflow: creating tasks, tracking time, and managing the Kanban board.
+[![Demo for base users](https://youtu.be/PhsZUxKjibg)
+
+### 3. 🧠 AI Functions
+Voice-to-Task parsing, complexity estimation, and English language enforcement.
+[![AI functions](https://youtu.be/-12NT9v1vo4)
+
+---
+
+## 📄 AI-Generated Documents
+
+Examples of professional documents generated automatically by the platform.
+
+| 🤖 AI Resume | 📊 Achievements Report |
+|--------------|------------------------|
+| [![Resume Preview](./docs/images/resume_preview.jpg)](./docs/examples/ai_resume.pdf) | [![Report Preview](./docs/images/report_preview.jpg)](./docs/examples/achievements_report.pdf) |
+| *Context-aware resume generated from tasks.* | *Detailed breakdown of hours and impact.* |
+| [Download PDF](./docs/examples/ai_resume.pdf) | [Download PDF](./docs/examples/achievements_report.pdf) |
+
+---
+
 ## 🏗️ System Architecture
 
 The system is built as a monolithic core with service-oriented components for AI processing, ensuring high availability and scalability.
@@ -110,3 +140,4 @@ Please use the [Issues](https://github.com/WinLanEm/careercodex-public/issues) t
 <p align="center">
   Built with ❤️ by <a href="https://github.com/WinLanEm">WinLanEm</a>
 </p>
+
