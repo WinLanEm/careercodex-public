@@ -4,8 +4,6 @@
   <p align="center">
     The Ultimate AI-Powered Developer Activity Tracker & Portfolio Builder.
     <br />
-    <a href="https://careercodex.tech"><strong>Explore the Live Demo »</strong></a>
-    <br />
     <br />
     <a href="https://careercodex.tech/login">Sign Up</a>
     ·
