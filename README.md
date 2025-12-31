@@ -58,10 +58,9 @@ Voice-to-Task parsing, complexity estimation, and English language enforcement.
 Examples of professional documents generated automatically by the platform.
 
 | 🤖 AI Resume | 📊 Achievements Report |
-|--------------|------------------------|
-| [![Resume Preview](./docs/images/resume_preview.jpg)](./docs/examples/ai_resume.pdf) | [![Report Preview](./docs/images/report_preview.jpg)](./docs/examples/achievements_report.pdf) |
+| :---: | :---: |
 | *Context-aware resume generated from tasks.* | *Detailed breakdown of hours and impact.* |
-| [Download PDF](./docs/examples/ai_resume.pdf) | [Download PDF](./docs/examples/achievements_report.pdf) |
+| [📄 Download PDF](./docs/examples/ai_resume.pdf) | [📄 Download PDF](./docs/examples/achievements_report.pdf) |
 
 ---
 
