@@ -4,7 +4,6 @@
   <p align="center">
     The Ultimate AI-Powered Developer Activity Tracker & Portfolio Builder.
     <br />
-    <br />
     <a href="https://careercodex.tech/login">Sign Up</a>
     ·
     <a href="https://github.com/WinLanEm/careercodex-public/issues">Report Bug</a>
